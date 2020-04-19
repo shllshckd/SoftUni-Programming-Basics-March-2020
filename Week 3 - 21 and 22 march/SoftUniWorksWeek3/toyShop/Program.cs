@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ToyShop
+namespace toyShop
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // read trip price 
+            // read trip price
             double tripPrice = double.Parse(Console.ReadLine());
             // read toys
             int puzzleCount = int.Parse(Console.ReadLine());
@@ -16,7 +16,7 @@ namespace ToyShop
             int truckCount = int.Parse(Console.ReadLine());
             //calculate income
             double income = 0;
-            income += puzzleCount * 2.6;
+            income += puzzleCount * 2.60;
             income += dollCount * 3.00;
             income += bearCount * 4.10;
             income += minionCount * 8.20;
@@ -28,13 +28,10 @@ namespace ToyShop
             {
                 income *= 0.75;
             }
-            
-            income *= 0.90; // income = income * 0.90;
-
-            // check money enough
-            //print
-
-            if (income > tripPrice)
+            income *= 0.90;
+            // check if money are enough
+            // print
+            if (income >= tripPrice)
             {
                 double remainingMoney = income - tripPrice;
                 Console.WriteLine($"Yes! {remainingMoney:f2} lv left.");

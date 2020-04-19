@@ -16,16 +16,17 @@ namespace fruits
             {
                 case "Monday":
                 case "Tuesday":
-                case "Wenesday":
+                case "Wednesday":
                 case "Thursday":
                 case "Friday":
                     switch (fruit)
                     {
-                        case "apple":
-                            price = 1.2;
-                            break;
+
                         case "banana":
                             price = 2.5;
+                            break;
+                        case "apple":
+                            price = 1.2;
                             break;
                         case "orange":
                             price = 0.85;
@@ -54,11 +55,11 @@ namespace fruits
                 case "Sunday":
                     switch (fruit)
                     {
-                        case "apple":
-                            price = 1.25;
-                            break;
                         case "banana":
                             price = 2.7;
+                            break;
+                        case "apple":
+                            price = 1.25;
                             break;
                         case "orange":
                             price = 0.90;
@@ -91,7 +92,7 @@ namespace fruits
             }
             else
             {
-                Console.WriteLine("Error");
+                Console.WriteLine("error");
             }
         }
     }

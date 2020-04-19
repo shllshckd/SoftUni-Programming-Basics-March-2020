@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\SURadians\\radiansAndDegrees.csproj",
+      "projectUniqueName": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\radians\\radiansAndDegrees.csproj",
       "projectName": "radiansAndDegrees",
-      "projectPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\SURadians\\radiansAndDegrees.csproj",
+      "projectPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\radians\\radiansAndDegrees.csproj",
       "packagesPath": "C:\\Users\\Az\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\SURadians\\obj\\",
+      "outputPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\radians\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Az\\AppData\\Roaming\\NuGet\\NuGet.Config",

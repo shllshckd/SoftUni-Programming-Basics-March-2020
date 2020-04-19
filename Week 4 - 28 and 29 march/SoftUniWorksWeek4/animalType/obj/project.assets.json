@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Az\\source\\repos\\SoftUniWeek4switchCase\\animalType\\countriesAndLanguages.csproj",
-      "projectName": "countriesAndLanguages",
-      "projectPath": "C:\\Users\\Az\\source\\repos\\SoftUniWeek4switchCase\\animalType\\countriesAndLanguages.csproj",
+      "projectUniqueName": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek4\\animalType\\animalType.csproj",
+      "projectName": "animalType",
+      "projectPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek4\\animalType\\animalType.csproj",
       "packagesPath": "C:\\Users\\Az\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Az\\source\\repos\\SoftUniWeek4switchCase\\animalType\\obj\\",
+      "outputPath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek4\\animalType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Az\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1h/rSDgQksxejYW21EsF159+IEc267u5q1uOIsjG7yPRRnFqn6afUp9tze3+NNyzb1MbEq2UdUgHqoDQ4hC4A==",
+  "dgSpecHash": "/FFyVm8ESnhAVidV5Q3fHW9Q/2Mf2w1xfbg86CmNXAncAM+Xp1uCG32eFD6w5DZUDKgchy9vTt0hQPz9rF9jGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\SURadians\\radiansAndDegrees.csproj",
+  "projectFilePath": "C:\\Users\\Az\\source\\repos\\SoftUniWorksWeek2\\radians\\radiansAndDegrees.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

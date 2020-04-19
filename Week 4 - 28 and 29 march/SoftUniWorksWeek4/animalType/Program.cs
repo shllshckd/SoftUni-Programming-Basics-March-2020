@@ -1,37 +1,29 @@
 ﻿using System;
 
-namespace countriesAndLanguages
+namespace animalType
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string country = Console.ReadLine();
-            string language = "";
+            string animal = Console.ReadLine();
 
-            switch (country)
+            switch (animal)
             {
-                case "Bulgaria":
-                    language = "Bulgarian";
+                case "dog":
+                    Console.WriteLine("mammal");
                     break;
 
-                case "USA":
-                case "UK":
-                case "United Kingdom":
-                case "United States":
-                    language = "English";
+                case "snake":
+                case "crocodile":
+                case "tortoise":
+                    Console.WriteLine("reptile");
                     break;
-
-                case "Spain":
-                    language = "Spanish";
-                    break;
-
+                
                 default:
-                    language = "Unknown";
+                    Console.WriteLine("unknown");
                     break;
-
             }
-            Console.WriteLine(language);
         }
     }
 }
