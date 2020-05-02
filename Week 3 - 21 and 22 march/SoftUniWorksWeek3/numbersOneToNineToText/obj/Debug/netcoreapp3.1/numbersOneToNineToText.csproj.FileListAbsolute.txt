@@ -1,3 +1,0 @@
-C:\Users\Az\source\repos\SoftUniWorksWeek3\numbersOneToNineToText\obj\Debug\netcoreapp3.1\numbersOneToNineToText.csproj.CoreCompileInputs.cache
-C:\Users\Az\source\repos\SoftUniWorksWeek3\numbersOneToNineToText\obj\Debug\netcoreapp3.1\numbersOneToNineToText.AssemblyInfoInputs.cache
-C:\Users\Az\source\repos\SoftUniWorksWeek3\numbersOneToNineToText\obj\Debug\netcoreapp3.1\numbersOneToNineToText.AssemblyInfo.cs
