@@ -1,4 +1,4 @@
-# SoftUni-Programming-Basics-With-C#-March-2020
+# SoftUni Programming Basics With C# March 2020
 
 Here I will upload my homeworks and problem solutions from SoftUni's Programming Basic March 2020 course.
 
